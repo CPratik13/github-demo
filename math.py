@@ -1,15 +1,15 @@
-#add implememtation
+# add implememtation
 def add(x,y):
     pass
 
-#subtract implementation
+# subtract implementation
 def subtract(x,y):
     pass
 
-#multiple implementation
+# multiple implementation
 def multiple(x,y):
     pass
 
-#divide implementation
+# divide implementation
 def divide(x,y):
     pass
